@@ -64,7 +64,6 @@ challenges, generate valuable insights, and drive business outcomes.</h1>
   
   
 
-  <h2 style={{ paddingTop: '15px', color: '#BCA66D' }}></h2>
 </div>
 
  

@@ -31,7 +31,7 @@ const Sidebar = () => {
     if (isTabletOrMobile){
       setSidebarToggle(false);
     }
-  }, [])
+  }, [isTabletOrMobile])
 
   return (
     <div style={{height:'100vh', display:'flex', fontFamily:'Roboto'}}>
