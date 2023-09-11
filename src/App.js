@@ -1,6 +1,5 @@
 import React from 'react'
-import {Route, Router,Routes} from 'react-router-dom';
-import AnimatedMan from './components/AnimatedMan';
+import {Route,Routes} from 'react-router-dom';
 import Sidebar from './components/Sidebar';
 import Topbar from './components/Topbar';
 import Header from './components/Header';

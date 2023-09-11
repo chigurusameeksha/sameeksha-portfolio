@@ -1,7 +1,6 @@
 import Atropos from 'atropos/react';
 import "atropos/atropos.css";
 import { useMediaQuery } from 'react-responsive';
-import { Link, Navigate, useNavigate } from "react-router-dom";
 
 // IMPORTING IMAGES
 import obesity from '../assets/obesit.png'
@@ -12,7 +11,6 @@ import movies from '../assets/movies.JPEG'
 
 const Projects = () => {
 const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
-const navigate = useNavigate();
 
   return (
     <div style={{ background:'#1e1e1e', color:'white', padding:'2rem', fontFamily:'Consolas'}}>

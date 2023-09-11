@@ -6,10 +6,8 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
   const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
-  const [headingColor, setHeadingColor] = useState('white');
-  const handleChange = (event)=>{
-    setHeadingColor(event.target.value)
-  }
+  const [headingColor] = useState('white');
+ 
   return (
     <div style={{height:'100vh', background:'#1e1e1e', color:'white', padding:'2rem'}}
     >

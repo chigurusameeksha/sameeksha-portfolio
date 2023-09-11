@@ -31,7 +31,7 @@ challenges, generate valuable insights, and drive business outcomes.</h1>
   </span>
   <span style={{ fontSize: isTabletOrMobile ? '10px' : '15px', marginLeft: '10px' }}>
     [ 2022 - 2024 ]<br />
-  Master's in Data Science -> 3.86/4.00
+  Master's in Data Science -{'>'} 3.86/4.00
   </span>
 </p>
 
@@ -43,7 +43,7 @@ challenges, generate valuable insights, and drive business outcomes.</h1>
   </span>
   <span style={{ fontSize: isTabletOrMobile ? '10px' : '15px', marginLeft: '10px' }}>
     [ 2022 - 2024 ]<br />
-    Post Graduate in Artificial Intelligence -> 4.00/4.00
+    Post Graduate in Artificial Intelligence -{'>'} 4.00/4.00
   </span>
 </p>
 
@@ -56,7 +56,7 @@ challenges, generate valuable insights, and drive business outcomes.</h1>
   </span>
   <span style={{ fontSize: isTabletOrMobile ? '10px' : '15px', marginLeft: '10px' }}>
     [ 2017 - 2021 ]<br />
-    Bachelor's in Computer Science -> 3.7/4.00
+    Bachelor's in Computer Science -{'>'} 3.7/4.00
   </span>
 </p>
 
@@ -73,9 +73,9 @@ challenges, generate valuable insights, and drive business outcomes.</h1>
 </div>
 
         <h2 style={{paddingTop:'50px', color:'#2658CA', fontSize:'22px'}}>&lt;Academics&gt;</h2>
-          <p style={{marginTop:'15px', fontSize:isTabletOrMobile?'15px':'20px'}}>• Secondary School -> 91.8% (CBSE)</p>
-          <p style={{marginTop:'15px', fontSize:isTabletOrMobile?'15px':'20px'}}>• High School -> 92% (CBSE)</p>
-          <p style={{marginTop:'15px', fontSize:isTabletOrMobile?'15px':'20px'}}>• B.tech Computer Engineering -> 9.3/10 Average CGPA (Mumbai University)</p>
+          <p style={{marginTop:'15px', fontSize:isTabletOrMobile?'15px':'20px'}}>• Secondary School -{'>'} 91.8% (CBSE)</p>
+          <p style={{marginTop:'15px', fontSize:isTabletOrMobile?'15px':'20px'}}>• High School -{'>'} 92% (CBSE)</p>
+          <p style={{marginTop:'15px', fontSize:isTabletOrMobile?'15px':'20px'}}>• B.tech Computer Engineering -{'>'} 9.3/10 Average CGPA (Mumbai University)</p>
 
         <h2 style={{paddingTop:'15px', color:'#2658CA',fontSize:'22px', marginBottom:'100px'}}>&lt;/Academics&gt;</h2>
 

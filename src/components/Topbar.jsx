@@ -1,15 +1,11 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import {useLocation, useNavigate} from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import { changeState } from '../actions';
-import { useMediaQuery } from 'react-responsive';
-
-
 const Topbar = () => {
   const location = useLocation();
 const selected = useSelector((state)=>state.changeTabState);
 const dispatch = useDispatch();
-const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
 const navigate = useNavigate();
 
 useEffect(()=>{

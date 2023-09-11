@@ -1,8 +1,4 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React from 'react';
-import Cross from '../assets/Cross';
-import Expand from '../assets/expand';
-import Minimize from '../assets/Minimize';
 import { useMediaQuery } from 'react-responsive';
 import { useDispatch, useSelector } from 'react-redux';
 import { changeFile } from '../actions';
